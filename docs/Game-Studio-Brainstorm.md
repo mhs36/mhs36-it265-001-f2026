@@ -11,15 +11,15 @@
 
 - **Chosen Name**: FlyWheel
 - **About the name**: FlyWheel because it sounds cool and has a lot of references/analogies
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Social Medias with name available**: only twitter :sob:
+- **Possible domain names available**: flywheelgamestudio.com, flywheelgamestudio.io
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+- We make games that capture the essence of games of the 2010s, while remaining fun and using modern technology to enhance the PLAYER experience and not milk their wallets dry.
 
 ---
 
@@ -54,9 +54,9 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> Unique mechanics would be on a per-game basis, taking a lot of details from games like Big Walk, Nuclear Nightmare, and Half-Life 2
-> Storytelling would preferably be on the level of TellTale Games, but with less decision making in the process to make the gameplay more streamlined (easy to develop)
-> Players should be able to interact with everything in the world (i.e., ragdolls, physics, and destruction)
+- Unique mechanics would be on a per-game basis, taking a lot of details from games like Big Walk, Nuclear Nightmare, and Half-Life 2
+- Storytelling would preferably be on the level of TellTale Games, but with less decision making in the process to make the gameplay more streamlined (easy to develop)
+- Players should be able to interact with everything in the world (i.e., ragdolls, physics, and destruction)
 
 ---
 
@@ -81,7 +81,7 @@
   - Tagline 3: "We keep going"
 
 -- **Sketches/Logo**:
-
+    <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4495bd2d-1008-4d1f-98b0-50492291e383" />
 ---
 
 ## Additional Notes
