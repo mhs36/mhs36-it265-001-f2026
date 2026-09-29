@@ -21,7 +21,7 @@
 - **Challenges faced**:
   - Finding and brainstorming ideas for a game to work on during the semester
 - **Solutions**:
-  > Brainstorming among classmates and friends to find an enjoyable idea
+  - Brainstorming among classmates and friends to find an enjoyable idea
 
 #### Learnings
 - Outside of class, how to draw with digital paint, making it possible for me to maybe make advertizing material
