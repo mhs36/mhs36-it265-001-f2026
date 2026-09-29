@@ -13,7 +13,7 @@
 -->
 - [x] Learn basics of gameplay and game making
 - [X] Start working on a basic game concept
-- [] Read the game concepts book
+- [ ] Read the game concepts book
 
 #### Progress
 - **What I accomplished**:
