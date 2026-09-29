@@ -1,9 +1,9 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Mohammad Sial
-### Module: 01
+### Module: 02
 
 <!-- Repeat the below as needed-->
-### Date: 09/10/2026
+### Date: 09/29/2026
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
