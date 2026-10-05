@@ -1,24 +1,28 @@
 ---
 layout: default
-title: "IT265 Module 2: Concept Pitch Cards"
+title: "IT265 Module 2: Peer Feedback"
 ---
 
-# IT265 Module 2: Concept Pitch Cards
+# IT265 Module 2: Peer Feedback
 
-## Pitch Card
+Use one copy for each concept you review. Keep actual workshop notes together in this document, including feedback you received when available. Initials are enough; do not record classmates' contact details. If feedback was unavailable, briefly say so instead of inventing it. Give feedback on the idea and name a decision the designer can make next.
 
-**Working title:**
+**Concept:**
 
-**Player role and situation:**
+**Reviewer initials:**
 
-**Repeated decision or action:**
+**In my words, the player repeatedly:**
 
-**Goal, pressure, or ending:**
+**One clarifying question:**
 
-**Hook:**
+**Strongest hook or source of appeal:**
 
-**Smallest useful physical prototype:**
+**What one student could prototype first:**
 
-**Question I want listeners to answer:**
+**Biggest uncertainty or risk to test:**
+
+**One actionable suggestion:**
+
+Give your notes to the designer. Designers can use the feedback in the [selection sheet](./04-select-and-scope.html) and journal entry. Link this document's rendered page from your workshop index.
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
