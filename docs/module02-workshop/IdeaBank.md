@@ -11,9 +11,9 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-| | | | |
-| | | | |
-| | | | |
+| Scrap Cards | Getting scrap and fighting in small sequences to gain more scrap | Party Game | Seemed cool at first, struggling with uniqueness|
+| Block Golf | | | |
+| Knock Knocked | | | |
 
 **Two or three concepts to pitch:**
 
