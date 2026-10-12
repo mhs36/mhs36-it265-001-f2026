@@ -11,12 +11,11 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-| Scrap Cards | Getting scrap and fighting in small sequences to gain more scrap | Party Game | Seemed cool at first, struggling with uniqueness|
-| Block Golf | | | |
-| Knock Knocked | | | |
+| Scrap Cards | Getting scrap and fighting in small sequences to gain more scrap | Party Game | Seemed cool at first, struggling with uniqueness| -- scope risk
+| Block Golf | Golfing but with obstacles placed by players | Party Game | Sounds really fun and simple and unique | -- ready to pitch
+| Knock Knocked | Knock knock + trick or treat + balatro | Incremental with hints of simulator | Big plans but not very well developed | -- save for later and a VERY large scope risk
 
 **Two or three concepts to pitch:**
 
-1.
-2.
-3.
+1. Scrap Cards
+2. Block Golf
