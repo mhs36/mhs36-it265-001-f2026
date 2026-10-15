@@ -11,21 +11,26 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [x] Learned
+- [x] Learned basics of color theory and its uses specifically in games
+- [X] Talked about game ideas and how they can be improved or expanded
 
 #### Progress
 - **What I accomplished**:
-  - 
+  - Thought up of a few ideas for Golfed and how some of the palette may need to be reworked.
 - **Challenges faced**:
-  - 
+  - Completing these dev logs, nothing much happens outside of class regarding my game.
 - **Solutions**:
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Brute-forcing work whenever I'm free, drinking tea helps.
 
 #### Learnings
-- 
+- Color theory in relation to game theory/design
+- Color definitions
+- Gameplay loops and rewarding vs. restrictive gameplay
 
 #### Free Thinking
 >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
-- 
+- Work on all of my missed work for this class
+- Learn Onshape or another CAD software to start 3d printing pieces for the physical prototype
+- Also maybe starting my presentation and design sheet...
