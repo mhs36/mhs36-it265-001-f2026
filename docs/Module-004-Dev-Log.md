@@ -11,8 +11,8 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [x] Learned basics of color theory and its uses specifically in games
-- [X] Talked about game ideas and how they can be improved or expanded
+- [x] Learn basics of color theory and its uses specifically in games
+- [X] Talk about game ideas and how they can be improved or expanded
 
 #### Progress
 - **What I accomplished**:
