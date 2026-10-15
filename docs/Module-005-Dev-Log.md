@@ -24,6 +24,8 @@
 
 #### Learnings
 - gameplay basics such as strategy, goals, feedback, etc.
+- card mechanics and systems (how they work and how they should be implemented)
+- 
 
 #### Free Thinking
 >  N/A <!--Your entry here or N/A if not applicable for this entry-->
