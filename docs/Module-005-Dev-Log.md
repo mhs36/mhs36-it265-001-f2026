@@ -11,21 +11,22 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [x] Learned
+- [x] Learn about what a game is definitionally (I guess that would be the closest word)
+- [X] Add stuff learned from this module into Golfed and make it a bit more fleshed out
 
 #### Progress
 - **What I accomplished**:
-  - 
+  - So far I have learned the material
 - **Challenges faced**:
-  - 
+  - Keeping up to date with assignments (in general too)
 - **Solutions**:
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Tea, just like last week (and input from friends on what to work on first and such)
 
 #### Learnings
-- 
+- gameplay basics such as strategy, goals, feedback, etc.
 
 #### Free Thinking
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
-- 
+- Starting work on the design document and the presentation
