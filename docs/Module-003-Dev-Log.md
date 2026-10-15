@@ -6,7 +6,7 @@
 #### Goals for this Module
 
 - [x] Form a small list of what good game ideas are and how they can be balanced/made fun for the player
-- [ ] 
+- [ ] Lowkey don't have much planned out yet
 
 #### Progress
 - **What I accomplished**:
@@ -15,13 +15,14 @@
 - **Challenges faced**:
   - Finding reliable sources for the case study (these games are way too old and niche)
 - **Solutions**:
-  - temp
+  - Even 2 weeks later, there wasn't much I could do other than old game reviews on blog posts
 
 #### Learnings
-- temp
+- I learned about game balancing and the different types of strategies (dominant, dominated,etc.)
+- learned about symmetry vs asymmetry and how fair randomness is
 
 #### Free Thinking
-- temp
+- Everything seems like common sense as of right now
 
 #### Next Steps
-- temp
+- Doing Module 4
