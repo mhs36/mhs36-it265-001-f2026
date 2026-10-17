@@ -16,7 +16,7 @@
 
 #### Progress
 - **What I accomplished**:
-  - So far I have learned the material
+  - So far, I have learned the material
 - **Challenges faced**:
   - Keeping up to date with assignments (in general too)
 - **Solutions**:
@@ -25,10 +25,10 @@
 #### Learnings
 - gameplay basics such as strategy, goals, feedback, etc.
 - card mechanics and systems (how they work and how they should be implemented)
-- 
+- how to use a board/zone system to make the gameplay more interesting (grids vs zones, square vs hex tiles, etc.)
 
 #### Free Thinking
->  N/A <!--Your entry here or N/A if not applicable for this entry-->
+>  Using a semi-procedural map seems to be a bit difficult to make a physical prototype out of, but if I can 3d print pieces with connectors, it should be less difficult!
 
 #### Next Steps
 - Starting work on the design document and the presentation
