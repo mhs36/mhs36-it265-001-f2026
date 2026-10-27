@@ -1,10 +1,10 @@
-# [Working Game Title]
+# Golfed
 
 _Game Design Treatment_
 
-**Designer:** [Name]
+**Designer:** Mohammad Sial
 
-**Updated:** [Date]
+**Updated:** 10/27/2026
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -18,12 +18,12 @@ proposals. A finished prototype or digital implementation is not needed here.
 ## Game Concept
 
 <!-- Explain why the working title fits. Mention alternative titles if useful. -->
-[Explain the title choice.]
+While the name is super generic, I wanted it to be simple, as the point of the game is just as simple, essentially golfing while trying to ruin your friends' golfing. I thought about renaming it to Get Golfed, but adding the "Get" didn't make sense to me. That choice was purely based on my own feelings and not any real proof.
 
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
-[Describe the premise and the player's place in it.]
+The premise of the game is to play golf, but the other players can add to the course/field. Your place as a player is to make the golf course easy enough for you to beat in as few strokes as possible, while making it hard for your friends to beat it. As a party game, a lot of the fun is up to the players to make.
 
 ## Gameplay
 
@@ -32,16 +32,19 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-[Describe the goals, challenges, and ending.]
-[Describe the player's goals and challenges.]
 
-[Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
+The player's goal is to play the course built by the other players, turn by turn, in as few strokes as possible, just like regular golf. The challenges you then face are the placement of the course tiles and getting knocked away by the other players in the scenario that their ball hits your ball. The ending occurs after a set number of placement turns have happened; when it occurs, the player with the fewest strokes wins.
+
+The rules of the base game are the exact same as golf. When it comes to placing tiles or obstacles on the map, you only get to choose one, and after all players have received their tiles or obstacles, they must add them to the map. Once they have been placed, the game returns to the rules of golf until all players have made it to the end/have taken too many strokes.
+
 ### Setup And Start
 
 <!-- Describe the starting state: how the play area and pieces are arranged,
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
 [Explain how a game is set up and begins.]
+
+The game starts with players selecting their first tiles. They then get to place their tiles in order and start golfing.
 
 ### Core Gameplay Loop
 
