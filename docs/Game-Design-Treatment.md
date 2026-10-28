@@ -42,22 +42,24 @@ The rules of the base game are the exact same as golf. When it comes to placing 
 <!-- Describe the starting state: how the play area and pieces are arranged,
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
-[Explain how a game is set up and begins.]
 
-The game starts with players selecting their first tiles. They then get to place their tiles in order and start golfing.
+The game starts with the players selecting their first tiles. The number of tiles to choose from is the same as the number of players currently playing. Once the players have chosen their tiles, they get to add it on to the course and the goal tile is attached. Every turn from now on will start by removing the end piece, selecting tiles or obstacles, and then reattaching everything.
 
 ### Core Gameplay Loop
 
 <!-- Describe the recurring player choices and actions, the rules that connect
 them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
-[Explain what the player considers, chooses or does, and how that changes the next decision.]
+
+The main decision players will face is where to putt their ball, and what tiles/obstacles to choose from in the selection phase. Everyone else's actions will be decided by what you select and where you decide to place it. 
 
 ### Ending And Outcome
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
 [Explain the end conditions and resulting outcome.]
+
+The game ends once the allocated number of turns have happened. While the players can't fully lose, you are ranked by how many strokes you had by the end of the game; the player with the least gets first place, the person with the second least gets second, and this pattern continues down the list for the number of people playing.
 
 ## First Physical Prototype
 
