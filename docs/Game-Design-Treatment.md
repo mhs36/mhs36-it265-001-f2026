@@ -66,13 +66,12 @@ The game ends once the allocated number of turns have happened. While the player
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
-[Describe the planned prototype, its pieces, and how they support play.] 
+
 For the physical prototype, there are only a few required things. You'll need the start and end tiles, the custom attachable tiles and obstacles, a score sheet, a ball to putt, and some kind of stick to hit the golf ball. The tiles and obstacles are necessary to have the dynamic play area, and the golf ball and stick are needed to play on that course. The scoreboard would be used to tally the number of strokes each player has done and see who gets first place.
 
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
-[Describe the physical version and the arrangement of its play area.]
 
 The play area would consist of the starting and end tiles on the floor (the course can get pretty big with a lot of players). You then have a zone off to the side where your usable tiles and obstacles are placed. You place your ball on the starting tile along with your fellow players, and the game begins.
 
@@ -102,6 +101,7 @@ Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
 [Describe the intended players and why the game fits them.]
 
+This is a party game at heart, if you know how to hit a ball and an almost unique experience every time, this game would fit for you. The theme of the game is meant to make it as unserious as possible, there is no reason to rage. 
 
 
 ## Accessibility And Inclusivity
@@ -117,7 +117,7 @@ Choose considerations relevant to this game; a generic feature list is not enoug
 <!-- Unique selling points are the distinctive design choices that give intended
 players a reason to choose this game. Explain those choices through a relevant
 comparison with an existing game. Connect the differences to the intended
-players' experience; support the comparison with concrete design details. -->
+players' experience; support the comparison with concrete design details.
 players' experience; support the comparison with concrete design details.
 Explain why the difference would make play more interesting to those players. -->
 [Explain the game's unique selling points and the relevant comparison.]
