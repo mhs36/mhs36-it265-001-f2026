@@ -57,7 +57,6 @@ The main decision players will face is where to putt their ball, and what tiles/
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
-[Explain the end conditions and resulting outcome.]
 
 The game ends once the allocated number of turns have happened. While the players can't fully lose, you are ranked by how many strokes you had by the end of the game; the player with the least gets first place, the person with the second least gets second, and this pattern continues down the list for the number of people playing.
 
@@ -67,11 +66,15 @@ The game ends once the allocated number of turns have happened. While the player
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
-[Describe the planned prototype, its pieces, and how they support play.]
+[Describe the planned prototype, its pieces, and how they support play.] 
+For the physical prototype, there are only a few required things. You'll need the start and end tiles, the custom attachable tiles and obstacles, a score sheet, a ball to putt, and some kind of stick to hit the golf ball. The tiles and obstacles are necessary to have the dynamic play area, and the golf ball and stick are needed to play on that course. The scoreboard would be used to tally the number of strokes each player has done and see who gets first place.
+
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
 [Describe the physical version and the arrangement of its play area.]
+
+The play area would consist of the starting and end tiles on the floor (the course can get pretty big with a lot of players). You then have a zone off to the side where your usable tiles and obstacles are placed. You place your ball on the starting tile along with your fellow players, and the game begins.
 
 ### Pieces And Their Purpose
 
@@ -98,6 +101,8 @@ readable materials and actual design choices. -->
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
 [Describe the intended players and why the game fits them.]
+
+
 
 ## Accessibility And Inclusivity
 
@@ -151,7 +156,7 @@ of the design. Connect its visual choices to the theme or player experience. -->
 Use initials or a first name and the person's relationship to you; omit private
 contact details. Each entry identifies a specific observation about the concept,
 mechanics, or style and the revision or next test it prompted. Record feedback
-that actually occurred, and distinguish a proposed change from a completed one. -->
+that actually occurred, and distinguish a proposed change from a completed one.
 contact details. Give actionable observations about the concept, mechanics, or
 style. Explain the change or next test each observation prompted and its effect
 if tried. If a suggestion is not adopted, explain the design reason and how the
