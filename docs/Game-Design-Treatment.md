@@ -99,9 +99,8 @@ readable materials and actual design choices. -->
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
-[Describe the intended players and why the game fits them.]
 
-This is a party game at heart, if you know how to hit a ball and an almost unique experience every time, this game would fit for you. The theme of the game is meant to make it as unserious as possible, there is no reason to rage. 
+This is a party game at heart; if you know how to hit a ball and want an almost unique experience every time, this game would fit for you. The theme of the game is meant to make it as unserious as possible; there should be no reason to rage. 
 
 
 ## Accessibility And Inclusivity
@@ -110,7 +109,7 @@ This is a party game at heart, if you know how to hit a ball and an almost uniqu
 understand, and use the game's actual interactions. Explain how these choices
 preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
-[Describe the accessibility choices and how they support play.]
+When it comes to the physical version of the game, there isn't much to do differently, as the game is already pretty simple. You can use a different golf club or ball if your needs require it, and you could even ignore scores and just keep on adding to the course and use up all the tiles and obstacles. When it comes to the digital version, the player would be able to change the sensitivity of the power bar, use colorblind modes, and maybe even remove tiles or obstacles from play if that better fits their playstyle.
 
 ## Unique Selling Points (USP)
 
@@ -120,14 +119,14 @@ comparison with an existing game. Connect the differences to the intended
 players' experience; support the comparison with concrete design details.
 players' experience; support the comparison with concrete design details.
 Explain why the difference would make play more interesting to those players. -->
-[Explain the game's unique selling points and the relevant comparison.]
+My game's main selling point would be its custom golf course component and the fact that every match would theoretically be unique. By allowing the players to control what their course is like and where everything is, it essentially makes an almost perfectly tailored experience for each group, every time it's played. This infinite scalability is what makes games like Ultimate Chicken Horse and even Chess fun.
 
 ## Concept Pitch
 
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
-[Write the concise pitch.]
+Golfed is a game where players can make their own golf course while sabotaging everyone else's chances of winning. You get to take turns placing obstacles and tiles to golf on and beat the course in as few strokes as possible. Every playthrough will have a different experience, meaning you can find yourself struggling while another player goes up in the ranking, or you engineer the course to perfectly benefit how you play and win.
 
 ## Visual Direction
 
